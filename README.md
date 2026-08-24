@@ -1,6 +1,6 @@
-# Luma Garden — public site
+# Wake the Garden — public site
 
-The public pages for the Luma Garden app. Plain HTML and one stylesheet, served
+The public pages for the Wake the Garden app. Plain HTML and one stylesheet, served
 by GitHub Pages. No build step: edit a file, commit, push, and it is live in
 about a minute.
 
